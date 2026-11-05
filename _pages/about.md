@@ -38,6 +38,12 @@ Publications {#publications}
     [<a href="https://arxiv.org/abs/2605.27621">arXiv</a>]
   </li>
   <li>
+    <span class="pub-title">Agent That Matters: An Attribution Framework for Multi-Agent LLMs</span><br>
+    Mingyu Lu<sup>*</sup>, <strong>Yushan Huang</strong><sup>*</sup>, Su-In Lee<br>
+    <span class="pub-venue">ICLR 2026 AIWILD Workshop</span>, 2026
+    [<a href="https://openreview.net/forum?id=esabw9linR">OpenReview</a>]
+  </li>
+  <li>
     <span class="pub-title">PointArena: Probing Multimodal Grounding Through Language-Guided Pointing</span><br>
     Long Cheng, Jiafei Duan, Yi Ru Wang, Haoquan Fang, Boyang Li, <strong>Yushan Huang</strong>, Elvis Wang, Ainaz Eftekhar, Jason Lee, Wentao Yuan, Rose Hendrix, Noah A. Smith, Fei Xia, Dieter Fox, Ranjay Krishna<br>
     <span class="pub-venue">arXiv preprint arXiv:2505.09990</span>, 2025
@@ -46,6 +52,8 @@ Publications {#publications}
     [<a href="https://github.com/pointarena/pointarena">Code</a>]
   </li>
 </ul>
+
+<p><small><sup>*</sup> Equal contribution</small></p>
 
 Teaching {#teaching}
 ======
