@@ -22,3 +22,7 @@ Research Experience
 ======
 TODO: projects / papers
 -->
+
+Honors & Awards
+======
+* **Su Family Endowed Scholarship**, Computer Science & Engineering, University of Washington (2023–2024)
