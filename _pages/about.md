@@ -14,11 +14,17 @@ redirect_from:
 
 Hi! I'm Yushan Huang, a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
 
-My research focuses on **trustworthy and interpretable AI**, with an emphasis on understanding and improving complex AI systems. I am particularly interested in:
+<!--  My research focuses on **trustworthy and interpretable AI**, with an emphasis on understanding and improving complex AI systems. I am particularly interested in:
 
 * **Attribution and explainability for LLM agents**: principled credit assignment that identifies which components of a multi-agent system actually drive its behavior, and using those signals to make the system better.
 * **Multimodal grounding and evaluation**: building rigorous benchmarks that test whether vision-language models truly connect language to the visual world.
-* **AI for biomedicine**: bringing these tools to high-stakes clinical settings, where systems must be both accurate and accountable.
+* **AI for biomedicine**: bringing these tools to high-stakes clinical settings, where systems must be both accurate and accountable. -->
+
+My research focuses on making machine learning systems more interpretable, reliable, and useful for scientific and biomedical applications. I am particularly interested in turning model explanations and representations into testable evidence that can support trustworthy decisions.
+
+- **Interpretable and Reliable Machine Learning:** Developing explanations and representations that can be evaluated through interventions, uncertainty analysis, and robustness checks.
+- **Reliable and Efficient LLM Systems:** Studying contribution attribution in multi-agent LLM workflows, as well as data selection and proxy modeling under limited compute.
+- **Machine Learning for Biomedicine:** Learning interpretable representations of biomedical data—particularly spatial patterns in computational pathology—and validating their stability, localization, and biological relevance.
 
 Publications {#publications}
 ======
