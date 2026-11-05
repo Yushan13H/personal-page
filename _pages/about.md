@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yushan Huang. I study Computer Science (B.S.) and Mathematics (B.A.) at the University of Washington.
+Hi! I'm Yushan Huang, a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
 
 <!-- TODO: add a short bio here -->
 
