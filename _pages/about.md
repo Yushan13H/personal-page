@@ -30,15 +30,15 @@ TODO: projects / papers
 
 Teaching {#teaching}
 ======
-<p><strong>Teaching Assistant, CSE 421: Introduction to Algorithms</strong><br>
+<p>Teaching Assistant, CSE 421: Introduction to Algorithms<br>
 University of Washington, Seattle, WA<br>
 2025–2026</p>
 
-<p><strong>Teaching Assistant, CSE 416: Introduction to Machine Learning</strong><br>
+<p>Teaching Assistant, CSE 416: Introduction to Machine Learning<br>
 University of Washington, Seattle, WA<br>
 2024</p>
 
-<p><strong>Mathematics Tutor: Calculus &amp; Linear Algebra</strong><br>
+<p>Mathematics Tutor: Calculus &amp; Linear Algebra<br>
 University of Washington, Seattle, WA<br>
 2023–2024</p>
 
