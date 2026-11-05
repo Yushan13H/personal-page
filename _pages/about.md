@@ -14,19 +14,38 @@ redirect_from:
 
 Hi! I'm Yushan Huang, a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
 
-<!-- TODO: add a short bio here -->
+My research focuses on **trustworthy and interpretable AI**, with an emphasis on understanding and improving complex AI systems. I am particularly interested in:
 
-<!--
-Research Interests
-======
-TODO: research interests
--->
+* **Attribution and explainability for LLM agents**: principled credit assignment that identifies which components of a multi-agent system actually drive its behavior, and using those signals to make the system better.
+* **Multimodal grounding and evaluation**: building rigorous benchmarks that test whether vision-language models truly connect language to the visual world.
+* **AI for biomedicine**: bringing these tools to high-stakes clinical settings, where systems must be both accurate and accountable.
 
-<!--
-Research Experience
+Publications {#publications}
 ======
-TODO: projects / papers
--->
+
+<style>
+  .pub-list { list-style: none; padding-left: 0; }
+  .pub-list li { margin-bottom: 1.2em; }
+  .pub-title { font-weight: 600; }
+  .pub-venue { font-style: italic; }
+</style>
+
+<ul class="pub-list">
+  <li>
+    <span class="pub-title">Agents that Matter: How Subtle Choices Shape Agent Attribution in Multi-Agent Systems</span><br>
+    Mingyu Lu, <strong>Yushan Huang</strong>, Chris Lin, Su-In Lee<br>
+    <span class="pub-venue">arXiv preprint arXiv:2605.27621</span>, 2026
+    [<a href="https://arxiv.org/abs/2605.27621">arXiv</a>]
+  </li>
+  <li>
+    <span class="pub-title">PointArena: Probing Multimodal Grounding Through Language-Guided Pointing</span><br>
+    Long Cheng, Jiafei Duan, Yi Ru Wang, Haoquan Fang, Boyang Li, <strong>Yushan Huang</strong>, Elvis Wang, Ainaz Eftekhar, Jason Lee, Wentao Yuan, Rose Hendrix, Noah A. Smith, Fei Xia, Dieter Fox, Ranjay Krishna<br>
+    <span class="pub-venue">arXiv preprint arXiv:2505.09990</span>, 2025
+    [<a href="https://arxiv.org/abs/2505.09990">arXiv</a>]
+    [<a href="https://pointarena.github.io/">Project Page</a>]
+    [<a href="https://github.com/pointarena/pointarena">Code</a>]
+  </li>
+</ul>
 
 Teaching {#teaching}
 ======
