@@ -12,7 +12,7 @@ redirect_from:
   .page__content h1 { scroll-margin-top: 80px; }
 </style>
 
-Hi! I'm Yushan Huang, a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I have also been fortunate to work closely with PhD student [Mingyu Lu](https://mingyu-lu.github.io/). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
+Hi! I'm Yushan Huang, a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I am also fortunate to work closely with PhD student [Mingyu Lu](https://mingyu-lu.github.io/). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
 
 <!--  My research focuses on **trustworthy and interpretable AI**, with an emphasis on understanding and improving complex AI systems. I am particularly interested in:
 
