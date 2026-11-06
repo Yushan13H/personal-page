@@ -12,7 +12,7 @@ redirect_from:
   .page__content h1 { scroll-margin-top: 80px; }
 </style>
 
-I'm a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I am also fortunate to work closely with PhD student [Mingyu Lu](https://mingyu-lu.github.io/). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
+I'm a research assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://aims.cs.washington.edu/home) at the University of Washington, advised by [Prof. Su-In Lee](https://aims.cs.washington.edu/su-in-lee). I am also fortunate to work closely with PhD student [Mingyu Lu](https://mingyu-lu.github.io/). I received my B.S. in Computer Science and B.A. in Mathematics from the University of Washington.
 
 <!--  My research focuses on **trustworthy and interpretable AI**, with an emphasis on understanding and improving complex AI systems. I am particularly interested in:
 
@@ -20,11 +20,10 @@ I'm a Research Assistant in the [AIMS Lab (AI for bioMedical Sciences)](https://
 * **Multimodal grounding and evaluation**: building rigorous benchmarks that test whether vision-language models truly connect language to the visual world.
 * **AI for biomedicine**: bringing these tools to high-stakes clinical settings, where systems must be both accurate and accountable. -->
 
-My research focuses on making machine learning systems more interpretable, reliable, and useful for scientific and biomedical applications. I am particularly interested in turning model explanations and representations into testable evidence that can support trustworthy decisions.
+My research interests lie in **interpretable and trustworthy machine learning**, with a focus on understanding complex AI systems and developing methods for biomedical application
 
-- **Interpretable and Reliable Machine Learning:** Developing explanations and representations that can be evaluated through interventions, uncertainty analysis, and robustness checks.
-- **Reliable and Efficient LLM Systems:** Studying contribution attribution in multi-agent LLM workflows, as well as data selection and proxy modeling under limited compute.
-- **Machine Learning for Biomedicine:** Learning interpretable representations of biomedical data—particularly spatial patterns in computational pathology—and validating their stability, localization, and biological relevance.
+- **Interpretable AI:** Understanding the behavior of machine learning models and complex AI systems through explainable representations and attribution methods.
+- **AI for Biomedicine:** Developing interpretable machine learning approaches to understand biomedical data and support scientific discovery.
 
 Publications {#publications}
 ======
@@ -51,7 +50,7 @@ Publications {#publications}
   </li>
   <li>
     <span class="pub-title">PointArena: Probing Multimodal Grounding Through Language-Guided Pointing</span><br>
-    Long Cheng, Jiafei Duan, Yi Ru Wang, Haoquan Fang, Boyang Li, <strong>Yushan Huang</strong>, Elvis Wang, Ainaz Eftekhar, Jason Lee, Wentao Yuan, Rose Hendrix, Noah A. Smith, Fei Xia, Dieter Fox, Ranjay Krishna<br>
+    Long Cheng<sup>*</sup>, Jiafei Duan<sup>*</sup>, Yi Ru Wang, Haoquan Fang, Boyang Li, <strong>Yushan Huang</strong>, Elvis Wang, Ainaz Eftekhar, Jason Lee, Wentao Yuan, Rose Hendrix, Noah A. Smith, Fei Xia, Dieter Fox, Ranjay Krishna<br>
     <span class="pub-venue">arXiv preprint arXiv:2505.09990</span>, 2025
     [<a href="https://arxiv.org/abs/2505.09990">arXiv</a>]
     [<a href="https://pointarena.github.io/">Project Page</a>]
