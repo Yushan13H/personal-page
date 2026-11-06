@@ -61,19 +61,27 @@ Publications {#publications}
 
 <p><small><sup>*</sup> Equal contribution</small></p>
 
+Education {#education}
+======
+* **University of Washington**(2022-2026)
+  * B.S in Computer Science
+  * B.A in Mathematics
+  * Total GPA: 3.90/4.0; Dean List: all quarters
+
+  
 Teaching {#teaching}
 ======
-<p>Teaching Assistant, CSE 421: Introduction to Algorithms<br>
-University of Washington, Seattle, WA<br>
-2025–2026</p>
+* **Undergraduate Teaching Assistant**, University of Washington, Seattle, WA<br>
+  CSE 421: Introduction to Algorithm<br>
+  2025–2026
 
-<p>Teaching Assistant, CSE 416: Introduction to Machine Learning<br>
-University of Washington, Seattle, WA<br>
-2024</p>
+* **Undergraduate Teaching Assistant**, University of Washington, Seattle, WA<br>
+  CSE 416: Introduction to Machine Learning<br>
+  2024
 
-<p>Mathematics Tutor: Calculus &amp; Linear Algebra<br>
-University of Washington, Seattle, WA<br>
-2023–2024</p>
+* **Mathematics Tutor**, University of Washington, Seattle, WA<br>
+  Calculus &amp; Linear Algebra<br>
+  2023–2024
 
 Honors & Awards {#honors}
 ======
