@@ -63,9 +63,9 @@ Publications {#publications}
 Education {#education}
 ======
 * **University of Washington**(2022-2026)<br>
-  B.S in Computer Science<br>
-  B.A in Mathematics<br>
-  Total GPA: 3.90/4.0; Dean List: all quarters
+  B.S. in Computer Science<br>
+  B.A. in Mathematics<br>
+  Total GPA: 3.90/4.0; Dean's List: all quarters
 
   
 Teaching {#teaching}
